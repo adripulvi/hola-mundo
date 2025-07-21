@@ -1,0 +1,26 @@
+[33mcommit 4eaffaa04469aaaf80e1b7048e5c364096997f35[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: AdrianP <adripulvirenti@gmail.com>
+Date:   Sat Jul 19 13:35:55 2025 -0300
+
+    3commit
+
+ readme.txt | 1 [32m+[m
+ 1 file changed, 1 insertion(+)
+
+[33mcommit 806008a4477faa1620f0c3cea15f10106154f29a[m
+Author: AdrianP <adripulvirenti@gmail.com>
+Date:   Sat Jul 19 13:34:01 2025 -0300
+
+    2copmmit
+
+ index.html | 1 [32m+[m
+ 1 file changed, 1 insertion(+)
+
+[33mcommit 2a98ef086e28e474d8471b202348ca8c325f837e[m
+Author: AdrianP <adripulvirenti@gmail.com>
+Date:   Sat Jul 19 13:30:32 2025 -0300
+
+    primer commit
+
+ index.html | 12 [32m++++++++++++[m
+ 1 file changed, 12 insertions(+)
